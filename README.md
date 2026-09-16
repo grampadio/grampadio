@@ -2,7 +2,7 @@
 
 <img src="https://grampad.io/logo.webp?v=2" width="140" alt="GramPad Logo"/>
 
-# 🚀 GramPad
+# GramPad.io
 
 ### The first trusted IDO launchpad built for safer fundraising on TON Chain.
 
