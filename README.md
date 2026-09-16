@@ -21,6 +21,9 @@
 <a href="https://t.me/grampadio_channel">
   <img src="https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://t.me/grampadio_chat">
+  <img src="https://img.shields.io/badge/Telegram-Chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 <a href="https://t.me/grampadio_bot">
   <img src="https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
