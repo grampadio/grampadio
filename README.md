@@ -58,8 +58,6 @@ Instead of simply sending funds directly to a project, GramPad introduces **smar
 ---
 
 ## 🛡️ Safer Fundraising Infrastructure
-
-```text
                     ┌─────────────────────┐
                     │       PROJECT       │
                     │     Creates IDO     │
@@ -146,7 +144,6 @@ Community participation and voting can be integrated into project fundraising st
 
 ## 🌐 GramPad Ecosystem
 
-```text
                          ┌─────────────────┐
                          │    GRAMPAD.IO    │
                          └────────┬────────┘
