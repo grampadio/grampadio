@@ -90,3 +90,83 @@ Instead of simply sending funds directly to a project, GramPad introduces **smar
           ▼
      💧 LIQUIDITY
         LOCK
+
+---
+
+## 🚀 Core Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Smart Escrow
+IDO funds are held through smart-contract infrastructure rather than being immediately controlled by the project.
+
+</td>
+<td width="50%">
+
+### 🎯 Milestone Releases
+Funds can be released according to predefined project milestones.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💧 Liquidity Locking
+Projects can lock liquidity to provide additional transparency around post-launch liquidity.
+
+</td>
+<td>
+
+### 🔄 Investor Protection
+Supported fundraising flows can provide refund mechanisms when defined conditions are not achieved.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🤖 AI Trust Score
+Analyze project information and available signals through an AI-assisted trust scoring system.
+
+</td>
+<td>
+
+### 🗳️ Community Governance
+Community participation and voting can be integrated into project fundraising stages.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 GramPad Ecosystem
+
+```text
+                         ┌─────────────────┐
+                         │    GRAMPAD.IO    │
+                         └────────┬────────┘
+                                  │
+        ┌─────────────────────────┼─────────────────────────┐
+        │                         │                         │
+        ▼                         ▼                         ▼
+ ┌──────────────┐         ┌──────────────┐         ┌──────────────┐
+ │   🚀 IDOs    │         │  💧 Liquidity │         │  🥩 Staking  │
+ │   Launchpad  │         │    Locker    │         │    GRAMX     │
+ └──────────────┘         └──────────────┘         └──────────────┘
+        │                         │                         │
+        └─────────────────────────┼─────────────────────────┘
+                                  │
+                                  ▼
+                         ┌─────────────────┐
+                         │     $GRAMX      │
+                         │  Ecosystem Token│
+                         └────────┬────────┘
+                                  │
+                    ┌─────────────┼─────────────┐
+                    ▼             ▼             ▼
+                 🗳️ Voting      🔐 Locking     🔄 Swap
