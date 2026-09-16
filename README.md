@@ -167,3 +167,5 @@ Community participation and voting can be integrated into project fundraising st
                     ┌─────────────┼─────────────┐
                     ▼             ▼             ▼
                  🗳️ Voting      🔐 Locking     🔄 Swap
+
+---
