@@ -29,15 +29,27 @@
 ---
 
 
-## 🔗 Connect With GramPad
+## 🌐 Social & Community
 
-| Platform | Link |
-|---|---|
-| 🌐 Website | [grampad.io](https://grampad.io) |
-| 𝕏 X | [@grampadio](https://x.com/grampadio) |
-| ✈️ Telegram Channel | [@grampadio_channel](https://t.me/grampadio_channel) |
-| 🤖 Telegram Bot | [@grampadio_bot](https://t.me/grampadio_bot) |
-| 💻 GitHub | [github.com/grampadio](https://github.com/grampadio) |
+<div align="center">
+
+<a href="https://grampad.io">
+  <img src="https://img.shields.io/badge/Website-GramPad.io-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://x.com/grampadio">
+  <img src="https://img.shields.io/badge/X-@grampadio-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://t.me/grampadio_channel">
+  <img src="https://img.shields.io/badge/Telegram-Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://t.me/grampadio_bot">
+  <img src="https://img.shields.io/badge/Telegram-Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://github.com/grampadio">
+  <img src="https://img.shields.io/badge/GitHub-GramPad-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ## 💎 What is GramPad?
 
