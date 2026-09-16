@@ -143,9 +143,6 @@ Community participation and voting can be integrated into project fundraising st
 ---
 
 ## 🌐 GramPad Ecosystem
----
-
-## 🌐 GramPad Ecosystem
 
                               ┌─────────────────────┐
                               │      GRAMPAD.IO     │
