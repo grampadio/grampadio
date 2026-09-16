@@ -31,6 +31,12 @@
   <img src="https://img.shields.io/badge/GitHub-GramPad-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/company/grampad-io">
+  <img src="https://img.shields.io/badge/LinkedIn-GramPad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+
 </div>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=09A9F5&center=true&vCenter=true&width=650&lines=Safer+Token+Fundraising+on+TON;Smart+Contract+Powered+IDO+Launches;Milestone-Based+Fund+Release;Liquidity+Locking+%26+Investor+Protection;Built+for+the+TON+Ecosystem" alt="GramPad"/>
 
