@@ -10,27 +10,6 @@
   <strong>Launch • Fund • Protect • Build</strong>
 </p>
 
-<p>
-  <a href="https://grampad.io">
-    <img src="https://img.shields.io/badge/🌐_Website-grampad.io-09A9F5?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/grampadio">
-    <img src="https://img.shields.io/badge/GitHub-GramPad-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://ton.org">
-    <img src="https://img.shields.io/badge/Built%20on-TON-0098EA?style=for-the-badge" />
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=09A9F5&center=true&vCenter=true&width=650&lines=Safer+Token+Fundraising+on+TON;Smart+Contract+Powered+IDO+Launches;Milestone-Based+Fund+Release;Liquidity+Locking+%26+Investor+Protection;Built+for+the+TON+Ecosystem" alt="GramPad"/>
-
-</div>
-
----
-
-
-## 🌐 Social & Community
-
 <div align="center">
 
 <a href="https://grampad.io">
@@ -50,6 +29,12 @@
 </a>
 
 </div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=09A9F5&center=true&vCenter=true&width=650&lines=Safer+Token+Fundraising+on+TON;Smart+Contract+Powered+IDO+Launches;Milestone-Based+Fund+Release;Liquidity+Locking+%26+Investor+Protection;Built+for+the+TON+Ecosystem" alt="GramPad"/>
+
+</div>
+
+---
+
 
 ## 💎 What is GramPad?
 
