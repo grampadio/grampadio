@@ -28,6 +28,17 @@
 
 ---
 
+
+## 🔗 Connect With GramPad
+
+| Platform | Link |
+|---|---|
+| 🌐 Website | [grampad.io](https://grampad.io) |
+| 𝕏 X | [@grampadio](https://x.com/grampadio) |
+| ✈️ Telegram Channel | [@grampadio_channel](https://t.me/grampadio_channel) |
+| 🤖 Telegram Bot | [@grampadio_bot](https://t.me/grampadio_bot) |
+| 💻 GitHub | [github.com/grampadio](https://github.com/grampadio) |
+
 ## 💎 What is GramPad?
 
 **GramPad** is a TON-based IDO launchpad designed to make token fundraising more transparent, structured, and safer for both projects and investors.
